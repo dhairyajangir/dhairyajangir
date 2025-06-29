@@ -12,7 +12,7 @@
     Currently learning <strong>WebDev</strong> & <strong>DevOps</strong><br>
     Contributing to open-source projects as a hobby <br>
     ~ Devoted to ~ <br>
-    <strong> Spirituality · Winning · Physics · Mathematics · Computing · Science · Moving Forward </strong> 
+    <strong> Spirituality · Winning · Physics · Mathematics · Computing · Science · Engineering · Moving Forward </strong> 
   </samp> 
   <br>
   <table width="100%" align="center">
