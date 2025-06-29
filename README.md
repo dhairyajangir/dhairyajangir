@@ -8,10 +8,13 @@
 
 <p align="center">
   <samp>
+    <strong> self proclaimed divergent thinker , entrepreneur </strong> <br>
     Currently learning <strong>WebDev</strong> & <strong>DevOps</strong><br>
-    Contributing to open-source projects as a hobby
+    Contributing to open-source projects as a hobby <br>
+    ~ Devoted to ~ <br>
+    <strong> Spirituality · Winning · Physics · Mathematics · Computing · Science · Moving Forward </strong> 
   </samp> 
-  <br><br>
+  <br>
   <table width="100%" align="center">
     <tr>
       <td align="center">
