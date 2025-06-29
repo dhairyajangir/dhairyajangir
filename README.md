@@ -8,7 +8,7 @@
 
 <p align="center">
   <samp>
-    Currently learning <strong>Web Development</strong> & <strong>DevOps</strong><br>
+    Currently learning <strong>WebDev</strong> & <strong>DevOps</strong><br>
     Contributing to open-source projects as a hobby
   </samp> 
   <br> <br>
