@@ -1,3 +1,4 @@
+<br>
 <table width="100%" align="center">
   <tr>
     <td align="center">
@@ -11,7 +12,6 @@
     <strong> self proclaimed divergent thinker , entrepreneur </strong> <br>
     Currently learning <strong>WebDev</strong> & <strong>DevOps</strong><br>
     Contributing to open-source projects as a hobby <br>
-    ~ Devoted to ~ <br>
     <strong> Spirituality · Winning · Science · Moving Forward · Music </strong> 
   </samp> 
   <br>
@@ -36,6 +36,7 @@
 
 
 <!--
+    ~ Devoted to ~ <br>
   <a href="https://www.linkedin.com/in/dhairya-jangir-163aaa318/" target="_blank">
     <img src="https://github.com/user-attachments/assets/57c7957f-fa7d-49aa-a599-9fde642b9c18" alt="LinkedIn" width="20">
   </a>
