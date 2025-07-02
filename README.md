@@ -9,7 +9,7 @@
 
 <p align="center">
   <samp>
-    <strong> self proclaimed divergent thinker , entrepreneur </strong> <br>
+    <strong> divergent thinker</strong> <br>
     Currently learning <strong>WebDev</strong> & <strong>DevOps</strong><br>
     Contributing to open-source projects as a hobby <br>
     <strong> Spirituality · Winning · Science · Moving Forward · Music </strong> 
