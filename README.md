@@ -23,6 +23,9 @@
       <td align="center">
           <a href="https://x.com/DhairyaJangir" target="_blank"> <img src="https://github.com/user-attachments/assets/59f53131-f249-4bdc-9cd5-5c56a6a01be0" alt="X" width="20"></a>      
       </td>
+      <td align="center">
+          <a href="https://leetcode.com/u/dhairyasquad73/" target="_blank"> <img src="https://github.com/user-attachments/assets/b0ee06d2-d250-49d3-868c-fb9b230da396" alt="LeetCode" width="20"> </a>      
+      </td>
     </tr>
   </table>
   
