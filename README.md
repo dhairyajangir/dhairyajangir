@@ -1,4 +1,3 @@
-<br>
 <table width="100%" align="center">
   <tr>
     <td align="center">
@@ -9,39 +8,9 @@
 
 <p align="center">
   <samp>
-    <strong> divergent thinker</strong> <br>
-    Currently learning <strong>WebDev</strong><br>
-    Contributing to open-source projects as a hobby <br>
-    <strong> Spirituality · Winning · Science · Moving Forward · Music </strong> 
+    <strong> divergent thinker and polymath</strong> <br>
+    Currently learning <strong>how software works and interacts</strong><br>
+    Contributing to <strong>open-source</strong> projects for clear understanding <br>
+    <strong> Spirituality · Winning · Science · Math · Execution · Moving Forward · Music </strong> 
   </samp> 
-  <br>
-  <table width="100%" align="center">
-    <tr>
-      <td align="center">
-          <a href="https://www.linkedin.com/in/dhairya-jangir-163aaa318/" target="_blank"> <img src="https://github.com/user-attachments/assets/57c7957f-fa7d-49aa-a599-9fde642b9c18" alt="LinkedIn" width="20"></a>
-      </td>
-      <td align="center">
-          <a href="https://x.com/DhairyaJangir" target="_blank"> <img src="https://github.com/user-attachments/assets/59f53131-f249-4bdc-9cd5-5c56a6a01be0" alt="X" width="20"></a>      
-      </td>
-      <td align="center">
-          <a href="https://leetcode.com/u/dhairyasquad73/" target="_blank"> <img src="https://github.com/user-attachments/assets/b0ee06d2-d250-49d3-868c-fb9b230da396" alt="LeetCode" width="20"> </a>      
-      </td>
-    </tr>
-  </table>
 </p>
-
-
-<!--
-    Currently learning <strong>WebDev</strong> & <strong>DevOps</strong><br>
-
-<p align="center">
-  <a href="https://github.com/dhairyajangir/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=dhairyajangir&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhairyajangir&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhairyajangir&theme=radical&hide_border=true" alt="GitHub Streak" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dhairyajangir&theme=react-dark&hide_border=true&area=true" alt="GitHub Contribution Graph"/>
-</p>
-
---!>
-
-
-
-
