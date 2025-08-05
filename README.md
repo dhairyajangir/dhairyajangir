@@ -8,9 +8,8 @@
 
 <p align="center">
   <samp>
-    <strong> divergent thinker and polymath</strong> <br>
     Currently learning <strong>how software works and interacts</strong><br>
-    Contributing to <strong>open-source</strong> projects for clear understanding <br>
+    Contributing to <strong>open-source</strong> projects for clear understanding and learning<br>
     <strong> Spirituality · Winning · Science · Math · Art · Execution · Moving Forward · Music </strong> 
   </samp> 
 </p>
