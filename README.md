@@ -13,3 +13,8 @@
     <strong> Spirituality · Winning · Science · Math · Art · Execution · Moving Forward · Music </strong> 
   </samp> 
 </p>
+
+
+
+## Visitor count
+![Visitor Count](https://count.getloli.com/get/@dhairyajangir?theme=rule34)
