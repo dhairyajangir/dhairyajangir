@@ -18,3 +18,6 @@
 
 ## Visitor count
 ![Visitor Count](https://count.getloli.com/get/@dhairyajangir?theme=rule34)
+
+## Streak
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dhairyajangir&theme=radical" alt="GitHub Streak" />
