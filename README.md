@@ -9,13 +9,14 @@
 
 <p align="center">
   <samp>
-    Currently learning <strong>how software works and interacts</strong><br>
-    Contributing to <strong>open-source</strong> projects for clear understanding and learning<br>
+    Contributing to <strong>open-source</strong> projects<br>
+    <!-- Currently learning <strong>how software works and interacts</strong><br> -->
+    Currently working on my <strong>portfolio · thunder (AI first IDE) · savior (AI law firm)</strong><br>
     <strong> Spirituality · Winning · Science · Math · Art · Execution · Moving Forward · Music </strong> 
   </samp> 
 </p>
 
-
+<!-- 
 ****
 
 ### GitHub Contribution Graph:
@@ -32,4 +33,4 @@
 ![Visitor Count](https://count.getloli.com/get/@dhairyajangir?theme=rule34)
 
 
-[![An image of @dhairyajangir's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/dhairyajangir)](https://holopin.io/@dhairyajangir)
+[![An image of @dhairyajangir's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/dhairyajangir)](https://holopin.io/@dhairyajangir) -->
