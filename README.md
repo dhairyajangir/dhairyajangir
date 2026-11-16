@@ -1,8 +1,15 @@
+
+<p align="center">
+  <img src="cartographer-of-infinity.png" alt="A Renaissance astronomer studying the cosmos, with his cloak and star atlas emerging over an ornate gold frame" width="100%">
+</p>
+
+<!-- <br> -->
+
 <!-- <p align="center">
 <strong> Spirituality · Winning · Science · Math · Art · Execution · Moving Forward · Music </strong> 
 </p> -->
 
-<img width="2172" height="724" alt="image" src="https://github.com/user-attachments/assets/53bb9ff4-a874-4e8e-9e60-8e85e80bc2ca" />
+<!-- <img width="2172" height="724" alt="image" src="https://github.com/user-attachments/assets/53bb9ff4-a874-4e8e-9e60-8e85e80bc2ca" /> -->
 
 
 <!-- <table width="100%" align="center">
